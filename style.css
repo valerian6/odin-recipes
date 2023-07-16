@@ -1,0 +1,30 @@
+body {
+    background-color: #C2DEDC;
+}
+* {
+    text-align: center;
+}
+.titlu {
+    color: #116A7B;
+    font-size: 60px;
+    font-family: Helvetica;
+    font-weight: 1000;
+}
+.list-title,
+.DescriereTitlu,
+.IngredienteTitlu,
+.PasiTitlu {
+    color: #a88645;
+    font-family: 'Courier New', Courier, monospace;
+}
+.list-element,
+.ing,
+.pas {
+    color: #967E76; 
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.imagine {
+    width: 500px;
+    height: auto;
+}
